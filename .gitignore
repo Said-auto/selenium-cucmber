@@ -1,0 +1,7 @@
+/target/
+*.classpath
+.settings/
+*.properties
+*.exe
+*.project
+*.mvn
